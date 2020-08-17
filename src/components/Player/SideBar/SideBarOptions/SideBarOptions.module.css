@@ -1,0 +1,29 @@
+.sideBarOption{
+    display: flex;
+    align-items: center;
+    color: #b3b3b3;
+    height: 40px;
+    cursor: pointer;
+    background-color: #040404;
+    transition: 200ms color ease-in;
+   font-family: 'Manrope', sans-serif;
+}
+.sideBarOption:hover{
+    color: white;
+    background-color: rgba(32, 32, 32, 0.212);
+}
+
+.sideBarOption > h4{
+    font-size: 12px;
+}
+.sideBarOption > p{   
+    margin-left: 10px;
+    font-size: 10px;
+    padding-left: 10px;
+    font-weight: 600;
+}
+.sideBarOption_icon{
+    font-size: 20px !important;
+    margin-right: 10px;
+    margin-left: 5px;
+}

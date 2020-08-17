@@ -1,0 +1,20 @@
+.login{
+    background-color: black;
+   display: grid;
+   place-items: center;
+   height: 100vh;
+   font-family: 'Manrope', sans-serif;
+
+}
+.logo{
+    width: 80%;
+}
+.login_button{
+    text-decoration: none;
+    padding: 20px;
+    border-radius: 99px;
+    font-weight: 900;
+    background-color: #1db954;
+    color: white;
+
+}
